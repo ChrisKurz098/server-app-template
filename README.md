@@ -1,1 +1,1 @@
-# server-app-template
+# Super-Tech-Blog
